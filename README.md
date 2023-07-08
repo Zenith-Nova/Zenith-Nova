@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Humanevice50
-- 👀 I’m interested in technology 
+- 👀 I’m interested in AI&ML
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
