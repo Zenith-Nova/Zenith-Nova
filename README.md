@@ -1,31 +1,17 @@
-<h1 align="center">Hi 👋, I'm Gideon Yebei</h1>
+<h1 align="center">Hi 👋, I'm Zenith : : Nova</h1>
 <h3 align="center">A passionate JAVA && web developer from Nairobi, Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gideon-yebei&label=Profile%20views&color=0e75b6&style=flat" alt="gideon-yebei" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zenith-Nova&label=Profile%20views&color=0e75b6&style=flat" alt="Zenith-Nova" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gideon-yebei" alt="gideon-yebei" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zenith-Nova" alt="Zenith-Nova" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gideon" target="blank"><img src="https://img.shields.io/twitter/follow/gideon?logo=twitter&style=for-the-badge" alt="gideon" /></a> </p>
-
-- 🔭 I’m currently working on [JAVA SPORTS CLUB SYSTEM](https://github.com/Gideon-Yebei/MongoDB-Club-System)
-
-- 🌱 I’m currently learning **Full stack Java development**
-
-- 👯 I’m looking to collaborate on **Above project**
-
-- 👨‍💻 All of my projects are available at [github.com/Gideon-Yebei](github.com/Gideon-Yebei)
-
-- 📝 I regularly write articles on [Technology](Technology)
+<p align="left"> <a href="https://twitter.com/Zenith-Nova" target="blank"><img src="https://img.shields.io/twitter/follow/Zenith-Nova?logo=twitter&style=for-the-badge" alt="Zenith-Nova" /></a> </p>
 
 - 💬 Ask me about **JAVA,HTML,CSS,JS,C/C++,Bash,Perl,Lua,PHP**
 
-- 📫 How to reach me **hk-axl-coder@proton.me**
+- 📫 How to reach me **zenith-nova@proton.me**
 
 - ⚡ Fun fact **Programmers declare variables not war.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
